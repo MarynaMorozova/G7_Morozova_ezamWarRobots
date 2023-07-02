@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17f11530-3a89-4c5e-87df-fdfdedb858ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Robots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Robots.java" afterDir="false" />
-    </list>
+    <list default="true" id="17f11530-3a89-4c5e-87df-fdfdedb858ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/workSpaсe/ExzamMorozovaG7"
+    "last_opened_file_path": "C:/workSpaсe/G7_Morozova_ezamWarRobots"
   }
 }]]></component>
   <component name="RunManager">
@@ -63,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1688133475239</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit Git1">
+      <created>1688313024176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688313024176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit Git" />
+    <MESSAGE value="commit Git1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit Git1" />
   </component>
 </project>
