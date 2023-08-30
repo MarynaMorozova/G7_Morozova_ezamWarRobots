@@ -60,7 +60,7 @@ public class Robots {
             this.setGetShootRandomAlf(this.getGetShootRandomAlf().replace(args1, ""));
             this.setHelthRobot(this.getHealthRobot() - 20);
 //            System.out.println(args);
-//            System.out.println(this.getGetShootRandomAlf());
+//            System.out.println(this.getGetShootRandomAlf());//вбивчи кнопки
         }
     }
 }
